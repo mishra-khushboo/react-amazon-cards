@@ -1,0 +1,17 @@
+.Product {
+  border: 2px solid black;
+  margin: 20px;
+  padding: 20px;
+
+  width: 1500px;
+  height: 120px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.Product p {
+  font-size: 18px;
+  font-weight: bold;
+}
