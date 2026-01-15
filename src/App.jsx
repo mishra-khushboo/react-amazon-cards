@@ -6,6 +6,7 @@ function App() {
 
   return (
     <>
+      <h2>Blockbuster deals | shop now</h2>
       <ProductTab />
     </>
   )
